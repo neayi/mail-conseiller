@@ -2,50 +2,82 @@
 
 $pratiques = array();
 
-$pratiques[1]['author'] = "Georges Joya";
-$pratiques[1]['caption'] = "Alternance des cultures pour lutter contre les graminées d’hiver - retour d'expérience (Georges Joya - Aglae)";
-$pratiques[1]['emailCaption'] = "Alternance des cultures pour lutter contre les graminées d’hiver";
-$pratiques[1]['url'] = 'https://wiki.tripleperformance.fr/wiki/Alternance_des_cultures_pour_lutter_contre_les_gramin%C3%A9es_d%E2%80%99hiver_-_retour_d%27exp%C3%A9rience_(Georges_Joya_-_Aglae)';
-$pratiques[2]['author'] = "Guy Doléac";
-$pratiques[2]['caption'] = "Choix variétal pour limiter le développement des adventices en maïs ensilage - retour d'expérience (Guy Doléac - Aglae)";
-$pratiques[2]['emailCaption'] = "Choix variétal pour limiter le développement des adventices en maïs ensilage";
-$pratiques[2]['url'] = 'https://wiki.tripleperformance.fr/wiki/Choix_vari%C3%A9tal_pour_limiter_le_d%C3%A9veloppement_des_adventices_en_ma%C3%AFs_ensilage_-_retour_d%27exp%C3%A9rience_(Guy_Dol%C3%A9ac_-_Aglae)';
-$pratiques[3]['author'] = "Alain Marty";
-$pratiques[3]['caption'] = "Combinaison du désherbage mécanique et chimique des cultures de printemps - retour d'expérience (Alain Marty - Aglae)";
-$pratiques[3]['emailCaption'] = "Combinaison du désherbage mécanique et chimique des cultures de printemps";
-$pratiques[3]['url'] = 'https://wiki.tripleperformance.fr/wiki/Combinaison_du_d%C3%A9sherbage_m%C3%A9canique_et_chimique_des_cultures_de_printemps_-_retour_d%27exp%C3%A9rience_(Alain_Marty_-_Aglae)';
-$pratiques[4]['author'] = "Robert Melix";
-$pratiques[4]['caption'] = "Ecimeuse pour désherber dans les légumineuses à graines - retour d'expérience en bio (Robert Melix - Aglae)";
-$pratiques[4]['emailCaption'] = "Ecimeuse pour désherber dans les légumineuses à graines en bio";
-$pratiques[4]['url'] = 'https://wiki.tripleperformance.fr/wiki/Ecimeuse_pour_d%C3%A9sherber_dans_les_l%C3%A9gumineuses_%C3%A0_graines_-_retour_d%27exp%C3%A9rience_en_bio_(Robert_Melix_-_Aglae)';
-$pratiques[5]['author'] = "Jean-Michel Bardou";
-$pratiques[5]['caption'] = "Féverole en couvert végétal d'interculture - retour d'expérience (Jean-Michel Bardou - Aglae)";
-$pratiques[5]['emailCaption'] = "Féverole en couvert végétal d'interculture";
-$pratiques[5]['url'] = 'https://wiki.tripleperformance.fr/wiki/F%C3%A9verole_en_couvert_v%C3%A9g%C3%A9tal_d%27interculture_-_retour_d%27exp%C3%A9rience_(Jean-Michel_Bardou_-_Aglae)';
-$pratiques[6]['author'] = "Joël Coureau";
-$pratiques[6]['caption'] = "Fauchage - andainage multi-espèces : une solution pour les cultures à récolte compliquée - retour d'expérience (Joël Coureau - Aglae)";
-$pratiques[6]['emailCaption'] = "Fauchage - andainage multi-espèces : une solution pour les cultures à récolte compliquée";
-$pratiques[6]['url'] = 'https://wiki.tripleperformance.fr/wiki/Fauchage_-_andainage_multi-esp%C3%A8ces_:_une_solution_pour_les_cultures_%C3%A0_r%C3%A9colte_compliqu%C3%A9e_-_retour_d%27exp%C3%A9rience_(Jo%C3%ABl_Coureau_-_Aglae)';
-$pratiques[7]['author'] = "Damien Carpene";
-$pratiques[7]['caption'] = "Faux-semis scalpeur pour lutter contre les chardons en désherbage mécanique - retour d'expérience (Damien Carpene - Aglae)";
-$pratiques[7]['emailCaption'] = "Faux-semis scalpeur pour lutter contre les chardons en désherbage mécanique";
-$pratiques[7]['url'] = 'https://wiki.tripleperformance.fr/wiki/Faux-semis_scalpeur_pour_lutter_contre_les_chardons_en_d%C3%A9sherbage_m%C3%A9canique_-_retour_d%27exp%C3%A9rience_(Damien_Carpene_-_Aglae)';
-$pratiques[8]['author'] = "Jean-Jacques Garbay";
-$pratiques[8]['caption'] = "Gestion de la flore en colza bio post couvert végétal - retour d'expérience (Jean-Jacques Garbay - Aglae)";
-$pratiques[8]['emailCaption'] = "Gestion de la flore en colza bio post couvert végétal";
-$pratiques[8]['url'] = 'https://wiki.tripleperformance.fr/wiki/Gestion_de_la_flore_en_colza_bio_post_couvert_v%C3%A9g%C3%A9tal_-_retour_d%27exp%C3%A9rience_(Jean-Jacques_Garbay_-_Aglae)';
-$pratiques[9]['author'] = "Brice Bousquet";
-$pratiques[9]['caption'] = "Introduction de cultures fourragères dans une rotation céréalières avec ray-grass resistant - retour d'expérience (Brice Bousquet - Aglae)";
-$pratiques[9]['emailCaption'] = "Introduction de cultures fourragères dans une rotation céréalières avec ray-grass resistant";
-$pratiques[9]['url'] = 'https://wiki.tripleperformance.fr/wiki/Introduction_de_cultures_fourrag%C3%A8res_dans_une_rotation_c%C3%A9r%C3%A9ali%C3%A8res_avec_ray-grass_resistant_-_retour_d%27exp%C3%A9rience_(Brice_Bousquet_-_Aglae)';
-$pratiques[10]['author'] = "Chateau de Nages";
-$pratiques[10]['caption'] = "Paillage tissé sur le rang en vergers zéro résidus pesticides";
-$pratiques[10]['emailCaption'] = "Paillage tissé sur le rang en vergers zéro résidus pesticides";
-$pratiques[10]['url'] = 'https://wiki.tripleperformance.fr/wiki/Paillage_tiss%C3%A9_sur_le_rang_en_vergers_z%C3%A9ro_r%C3%A9sidus_pesticides';
-$pratiques[11]['author'] = "Jérôme Sainte-Marie";
-$pratiques[11]['caption'] = "Réduction de l'écartement et augmentation de la densité de semis pour réduire la pression adventice - retour d'expérience (Jérôme Sainte-Marie - Aglae)";
-$pratiques[11]['emailCaption'] = "Réduction de l'écartement et augmentation de la densité de semis pour réduire la pression adventice";
-$pratiques[11]['url'] = 'https://wiki.tripleperformance.fr/wiki/R%C3%A9duction_de_l%27%C3%A9cartement_et_augmentation_de_la_densit%C3%A9_de_semis_pour_r%C3%A9duire_la_pression_adventice_-_retour_d%27exp%C3%A9rience_(J%C3%A9r%C3%B4me_Sainte-Marie_-_Aglae)';
+$pratiques['gc-1']['author'] = "Damien Carpene";
+$pratiques['gc-1']['caption'] = "Faux-semis scalpeur pour lutter contre les chardons en désherbage mécanique - retour d'expérience (Damien Carpene - Aglae)";
+$pratiques['gc-1']['emailCaption'] = "Faux-semis scalpeur pour lutter contre les chardons en désherbage mécanique";
+$pratiques['gc-1']['keywords'] = 'faux-semis, faux-semis scalpeur, non labour, vibroculteur, soc patte d\'oie, rouleau émietteur, folle avoine, chardon';
+$pratiques['gc-1']['teaser_multiple'] = "Dans ce témoignage, Damien Carpene nous présente sa technique du faux-semis en nous expliquant comment il a adapté son vibroculteur pour répondre à ses besoins.";
+$pratiques['gc-1']['url'] = 'https://wiki.tripleperformance.fr/wiki/Faux-semis_scalpeur_pour_lutter_contre_les_chardons_en_d%C3%A9sherbage_m%C3%A9canique_-_retour_d%27exp%C3%A9rience_(Damien_Carpene_-_Aglae)';
+$pratiques['gc-1']['teaser_once'] = "Dans ce témoignage, il nous présente sa technique du faux-semis en nous expliquant comment il a adapté son vibroculteur pour répondre à ses besoins.";
+$pratiques['gc-2']['author'] = "Robert Melix";
+$pratiques['gc-2']['caption'] = "Ecimeuse pour désherber dans les légumineuses à graines - retour d'expérience en bio (Robert Melix - Aglae)";
+$pratiques['gc-2']['emailCaption'] = "Ecimeuse pour désherber dans les légumineuses à graines en bio";
+$pratiques['gc-2']['keywords'] = 'ecimeuse, desherbage mécanique, lentille, cameline, semis haute densité';
+$pratiques['gc-2']['teaser_multiple'] = "Dans ce témoignage, Robert Melix nous présente son utilisation de l'écimeuse pour réduire la production de graines d’adventices.";
+$pratiques['gc-2']['url'] = 'https://wiki.tripleperformance.fr/wiki/Ecimeuse_pour_d%C3%A9sherber_dans_les_l%C3%A9gumineuses_%C3%A0_graines_-_retour_d%27exp%C3%A9rience_en_bio_(Robert_Melix_-_Aglae)';
+$pratiques['gc-2']['teaser_once'] = "Dans ce témoignage, il nous présente son utilisation de l'écimeuse pour réduire la production de graines d’adventices.";
+$pratiques['gc-3']['author'] = "Jean-Michel Bardou";
+$pratiques['gc-3']['caption'] = "Féverole en couvert végétal d'interculture - retour d'expérience (Jean-Michel Bardou - Aglae)";
+$pratiques['gc-3']['emailCaption'] = "Féverole en couvert végétal d'interculture";
+$pratiques['gc-3']['keywords'] = 'non labour, travail simplifié, féverole, couvert végétal, cover crop, rouleau plombeur, phacélie, moutarde';
+$pratiques['gc-3']['teaser_multiple'] = "Dans ce témoignage, Jean-Michel Bardou nous présente son utilisation d'un couvert végétal de féverole en interculture pour lutter contre les dicotylédones d'hiver dans le cadre des TCS.";
+$pratiques['gc-3']['url'] = 'https://wiki.tripleperformance.fr/wiki/F%C3%A9verole_en_couvert_v%C3%A9g%C3%A9tal_d%27interculture_-_retour_d%27exp%C3%A9rience_(Jean-Michel_Bardou_-_Aglae)';
+$pratiques['gc-3']['teaser_once'] = "Dans ce témoignage, il nous présente son utilisation d'un couvert végétal de féverole en interculture pour lutter contre les dicotylédones d'hiver dans le cadre des TCS.";
+$pratiques['gc-4']['author'] = "Jérôme Sainte-Marie";
+$pratiques['gc-4']['caption'] = "Réduction de l'écartement et augmentation de la densité de semis pour réduire la pression adventice - retour d'expérience (Jérôme Sainte-Marie - Aglae)";
+$pratiques['gc-4']['emailCaption'] = "Réduction de l'écartement et augmentation de la densité de semis pour réduire la pression adventice";
+$pratiques['gc-4']['keywords'] = 'semis direct, sol ressuyé, écartement interrang réduit, densité de semis élevée';
+$pratiques['gc-4']['teaser_multiple'] = "Dans ce témoignage, Jérôme Sainte-Marie nous explique comment il a réduit l’écartement et augmenté la densité de semis de sa culture de maïs pour lutter contre les adventices.";
+$pratiques['gc-4']['url'] = 'https://wiki.tripleperformance.fr/wiki/R%C3%A9duction_de_l%27%C3%A9cartement_et_augmentation_de_la_densit%C3%A9_de_semis_pour_r%C3%A9duire_la_pression_adventice_-_retour_d%27exp%C3%A9rience_(J%C3%A9r%C3%B4me_Sainte-Marie_-_Aglae)';
+$pratiques['gc-4']['teaser_once'] = "Dans ce témoignage, il nous explique comment il a réduit l’écartement et augmenté la densité de semis de sa culture de maïs pour lutter contre les adventices.";
+$pratiques['gc-5']['author'] = "Guy Doléac";
+$pratiques['gc-5']['caption'] = "Choix variétal pour limiter le développement des adventices en maïs ensilage - retour d'expérience (Guy Doléac - Aglae)";
+$pratiques['gc-5']['emailCaption'] = "Choix variétal pour limiter le développement des adventices en maïs ensilage";
+$pratiques['gc-5']['keywords'] = 'choix variétal, partage, autonomie protéique, méteil, maïs ensilage';
+$pratiques['gc-5']['teaser_multiple'] = "Dans ce témoignage, Guy Doléac nous présente ses critères de sélection de variété de maïs ensilage en fonction de sa place dans la rotation.";
+$pratiques['gc-5']['url'] = 'https://wiki.tripleperformance.fr/wiki/Choix_vari%C3%A9tal_pour_limiter_le_d%C3%A9veloppement_des_adventices_en_ma%C3%AFs_ensilage_-_retour_d%27exp%C3%A9rience_(Guy_Dol%C3%A9ac_-_Aglae)';
+$pratiques['gc-5']['teaser_once'] = "Dans ce témoignage, il nous présente ses critères de sélection de variété de maïs ensilage en fonction de sa place dans la rotation.";
+$pratiques['gc-6']['author'] = "Georges Joya";
+$pratiques['gc-6']['caption'] = "Alternance des cultures pour lutter contre les graminées d’hiver - retour d'expérience (Georges Joya - Aglae)";
+$pratiques['gc-6']['emailCaption'] = "Alternance des cultures pour lutter contre les graminées d’hiver";
+$pratiques['gc-6']['keywords'] = 'effet allélopathique; couvert; déchaumeur, rouleau type FACA, herse rotative, étrille, écrouteuse, binage, cultures associées, couverts végétaux, trèfle';
+$pratiques['gc-6']['teaser_multiple'] = "Dans ce témoignage, Georges Joya nous présente comment il est possible de cultiver en non-labour et en bio.";
+$pratiques['gc-6']['url'] = 'https://wiki.tripleperformance.fr/wiki/Alternance_des_cultures_pour_lutter_contre_les_gramin%C3%A9es_d%E2%80%99hiver_-_retour_d%27exp%C3%A9rience_(Georges_Joya_-_Aglae)';
+$pratiques['gc-6']['teaser_once'] = "Dans ce témoignage, il nous présente comment il est possible de cultiver en non-labour et en bio.";
+$pratiques['gc-7']['author'] = "Brice Bousquet";
+$pratiques['gc-7']['caption'] = "Introduction de cultures fourragères dans une rotation céréalières avec ray-grass resistant - retour d'expérience (Brice Bousquet - Aglae)";
+$pratiques['gc-7']['emailCaption'] = "Introduction de cultures fourragères dans une rotation céréalières avec ray-grass resistant";
+$pratiques['gc-7']['keywords'] = 'cultures fourragères, méteil fourrager en dérobé, sorgho fourrager, maïs fourrager, féverole';
+$pratiques['gc-7']['teaser_multiple'] = "Dans ce témoignage, Brice Bousquet nous explique comment l'introduction de cultures fourragères dans son assolement lui a permis de maîtriser le salissement de ses parcelles dû au ray-grass.";
+$pratiques['gc-7']['url'] = 'https://wiki.tripleperformance.fr/wiki/Introduction_de_cultures_fourrag%C3%A8res_dans_une_rotation_c%C3%A9r%C3%A9ali%C3%A8res_avec_ray-grass_resistant_-_retour_d%27exp%C3%A9rience_(Brice_Bousquet_-_Aglae)';
+$pratiques['gc-7']['teaser_once'] = "Dans ce témoignage, il nous explique comment l'introduction de cultures fourragères dans son assolement lui a permis de maîtriser le salissement de ses parcelles dû au ray-grass.";
+$pratiques['gc-9']['author'] = "Jean-Jacques Garbay";
+$pratiques['gc-9']['caption'] = "Gestion de la flore en colza bio post couvert végétal - retour d'expérience (Jean-Jacques Garbay - Aglae)";
+$pratiques['gc-9']['emailCaption'] = "Gestion de la flore en colza bio post couvert végétal";
+$pratiques['gc-9']['keywords'] = 'agriculture biologique de conservation, couverture des sols, engrais verts, travail superficiel du sol, déchaumeur à disques, méteil, chénopodes, amarantes, panics, couvert végétal, faux-semis, binage';
+$pratiques['gc-9']['teaser_multiple'] = "Dans ce témoignage, Jean-Jacques Garbay nous explique comment il réduit le développement des adventices estivales dans ses parcelles grâce à une couverture maximale des sols par les espèces et engrais verts les plus judicieux et un travail du sol superficiel.";
+$pratiques['gc-9']['url'] = 'https://wiki.tripleperformance.fr/wiki/Gestion_de_la_flore_en_colza_bio_post_couvert_v%C3%A9g%C3%A9tal_-_retour_d%27exp%C3%A9rience_(Jean-Jacques_Garbay_-_Aglae)';
+$pratiques['gc-9']['teaser_once'] = "Dans ce témoignage, il nous explique comment il réduit le développement des adventices estivales dans ses parcelles grâce à une couverture maximale des sols par les espèces et engrais verts les plus judicieux et un travail du sol superficiel.";
+$pratiques['gc-10']['author'] = "Alain Marty";
+$pratiques['gc-10']['caption'] = "Combinaison du désherbage mécanique et chimique des cultures de printemps - retour d'expérience (Alain Marty - Aglae)";
+$pratiques['gc-10']['emailCaption'] = "Combinaison du désherbage mécanique et chimique des cultures de printemps";
+$pratiques['gc-10']['keywords'] = 'désherbage mécanique, désherbage chimique, houe rotative, herse étrille, bineuse, tournesol';
+$pratiques['gc-10']['teaser_multiple'] = "Dans ce témoignage, Alain Marty nous présente comment il est possible de désherber mécaniquement et chimiquement des cultures de printemps.";
+$pratiques['gc-10']['url'] = 'https://wiki.tripleperformance.fr/wiki/Combinaison_du_d%C3%A9sherbage_m%C3%A9canique_et_chimique_des_cultures_de_printemps_-_retour_d%27exp%C3%A9rience_(Alain_Marty_-_Aglae)';
+$pratiques['gc-10']['teaser_once'] = "Dans ce témoignage, il nous présente comment il est possible de désherber mécaniquement et chimiquement des cultures de printemps.";
+$pratiques['gc-11']['author'] = "Joël Coureau";
+$pratiques['gc-11']['caption'] = "Fauchage - andainage multi-espèces : une solution pour les cultures à récolte compliquée - retour d'expérience (Joël Coureau - Aglae)";
+$pratiques['gc-11']['emailCaption'] = "Fauchage - andainage multi-espèces : une solution pour les cultures à récolte compliquée";
+$pratiques['gc-11']['keywords'] = 'fauchage-andainage, faucheuse-andaineuse, cultures indéterminées, Chia, Colza, Lentille, Lin, Luzerne, Orge, Pois chiche';
+$pratiques['gc-11']['teaser_multiple'] = "Dans ce témoignage, Joël Coureau  nous explique comment il gère le salissement des parcelles où le désherbage chimique est insuffisant grâce au fauchage-andainage.";
+$pratiques['gc-11']['url'] = 'https://wiki.tripleperformance.fr/wiki/Fauchage_-_andainage_multi-esp%C3%A8ces_:_une_solution_pour_les_cultures_%C3%A0_r%C3%A9colte_compliqu%C3%A9e_-_retour_d%27exp%C3%A9rience_(Jo%C3%ABl_Coureau_-_Aglae)';
+$pratiques['gc-11']['teaser_once'] = "Dans ce témoignage, il  nous explique comment il gère le salissement des parcelles où le désherbage chimique est insuffisant grâce au fauchage-andainage.";
+
+
+$pratiques['arbo-3']['author'] = "Chateau de Nages";
+$pratiques['arbo-3']['caption'] = "Paillage tissé sur le rang en vergers zéro résidus pesticides";
+$pratiques['arbo-3']['emailCaption'] = "Paillage tissé sur le rang en vergers zéro résidus pesticides";
+$pratiques['arbo-3']['url'] = 'https://wiki.tripleperformance.fr/wiki/Paillage_tiss%C3%A9_sur_le_rang_en_vergers_z%C3%A9ro_r%C3%A9sidus_pesticides';
 
 ?><!DOCTYPE html>
 <html lang="en">
@@ -78,7 +110,7 @@ $pratiques[11]['url'] = 'https://wiki.tripleperformance.fr/wiki/R%C3%A9duction_d
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
     <div class="container">
-      <a class="navbar-brand" href="<?= $GLOBALS['_SERVER']['PHP_SELF'] ?>">Aglaé</a>
+      <a class="navbar-brand" href="<?= $GLOBALS['_SERVER']['PHP_SELF'] ?>?">Aglaé</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -143,6 +175,8 @@ N'hésitez pas à le modifier et à l'adapter si nécessaire !
 
     Il s'agit d'un retour d'expérience de <?=$p['author'] ?> : <b><a href="<?=$p['url'] ?>"><?=$p['emailCaption'] ?></a></b>.<br><br>
 
+    <p><?=$p['teaser_once'] ?></p>
+
     La plateforme sur laquelle nous avons rédigé ce retour d'expérience (<a href="https://tripleperformance.fr">tripleperformance.fr</a>) permet en outre
     de poser des questions et commentaires.  N'hésitez pas car cela permettra d'améliorer les témoignages, et, le cas échéant, de mettre les uns et les autres
     en relation autour de chaque sujet.<br><br>
@@ -170,7 +204,9 @@ N'hésitez pas à le modifier et à l'adapter si nécessaire !
       <ul>
         <?php
         foreach ($p as $k)
-          echo '<li><b><a href="'. $pratiques[$k]['url'] . '">'. $pratiques[$k]['emailCaption'] . '</a></b></li>';
+        {
+          echo '<li><b><a href="'. $pratiques[$k]['url'] . '">'. $pratiques[$k]['emailCaption'] . '</a></b><br>' . $pratiques[$k]['teaser_multiple'] .'</li>';
+        }
         ?>
       </ul>
       La plateforme sur laquelle nous avons rédigé ce retour d'expérience (<a href="https://tripleperformance.fr">tripleperformance.fr</a>) permet en outre
@@ -214,11 +250,16 @@ else
 
 foreach ($pratiques as $k => $aPratique)
 {
+  $pills = '';
+
+  foreach (explode(",", $aPratique['keywords']) as $aKeyword)
+    $pills .= '<span class="badge badge-pill badge-info">'.trim($aKeyword).'</span> ';
+
   echo '<div class="form-check">
   <input type="checkbox" class="form-check-input" id="pratiqueId'.$k.'" name="p['.$k.']" value="yes">
   <label class="form-check-label" for="pratiqueId'.$k.'">'.htmlentities($aPratique['caption']).'
   <a target="_blank" href="'.htmlentities($aPratique['url']).'"><img src="https://wiki.tripleperformance.fr/skins/skin-neayi/images/external-link-ltr-icon.svg"></a>
-
+  <br>'.$pills.'
   </label>
   </div>';
 }
@@ -238,6 +279,7 @@ foreach ($pratiques as $k => $aPratique)
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.slim.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
 
 </body>
 
