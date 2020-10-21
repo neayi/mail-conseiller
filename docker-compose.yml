@@ -1,0 +1,9 @@
+version: '3'
+services:
+  web:
+    container_name: mailconseiller
+    image: php:7.3-apache
+    ports:
+      - "80:80"
+    volumes:
+      - ./public_html:/var/www/html
