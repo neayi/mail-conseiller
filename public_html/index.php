@@ -178,7 +178,7 @@ else
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="<?= $GLOBALS['_SERVER']['PHP_SELF'] ?>?">Aglaé</a>
+      <a class="navbar-brand" href="?">Aglaé</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -186,14 +186,14 @@ else
         <ul class="navbar-nav ml-auto">
 
         <li class="nav-item mr-5 <?=($type == 'gc' ? 'active' : '')?>">
-            <a class="nav-link" href="index.php?type=gc">
+            <a class="nav-link" href="?type=gc">
             <i class="fas fa-seedling"></i>  Grandes cultures
              
             </a>
           </li>
           <li class="nav-item mr-5 <?=($type == 'arbo' ? 'active' : '')?>">
          
-            <a class="nav-link" href="index.php?type=arbo">
+            <a class="nav-link" href="?type=arbo">
             
             <i class="fas fa-apple-alt"></i> Arboriculture
               
