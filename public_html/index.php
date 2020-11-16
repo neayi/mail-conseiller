@@ -74,10 +74,76 @@ $pratiques['gc-11']['url'] = 'https://wiki.tripleperformance.fr/wiki/Fauchage_-_
 $pratiques['gc-11']['teaser_once'] = "Dans ce témoignage, il  nous explique comment il gère le salissement des parcelles où le désherbage chimique est insuffisant grâce au fauchage-andainage.";
 
 
-$pratiques['arbo-3']['author'] = "Chateau de Nages";
-$pratiques['arbo-3']['caption'] = "Paillage tissé sur le rang en vergers zéro résidus pesticides";
-$pratiques['arbo-3']['emailCaption'] = "Paillage tissé sur le rang en vergers zéro résidus pesticides";
-$pratiques['arbo-3']['url'] = 'https://wiki.tripleperformance.fr/wiki/Paillage_tiss%C3%A9_sur_le_rang_en_vergers_z%C3%A9ro_r%C3%A9sidus_pesticides';
+
+$pratiques['arbo-1']['author'] = "Jean-Daniel Rigaud";
+$pratiques['arbo-1']['caption'] = "Entretien mécanique en jeunes vergers dans une exploitation mixte PFI/AB - retour d'expérience (Jean-Daniel Rigaud - Aglae)";
+$pratiques['arbo-1']['emailCaption'] = "Entretien mécanique en jeunes vergers dans une exploitation mixte PFI/AB";
+$pratiques['arbo-1']['keywords'] = 'Production Fruitière Intégrée (PFI), Vergers Ecoresponsables, HVE, AB, jeunes vergers, campagnol provençal, herse rotative, disques émotteurs, tondeuse satellite';
+$pratiques['arbo-1']['teaser_multiple'] = "Dans ce témoignage, Jean-Daniel Rigaud  nous explique comment il gère l'enherbement sur le rang de ses jeunes vergers en PFI ou AB grâce au desherbage mécanique.";
+$pratiques['arbo-1']['teaser_once'] = "Dans ce témoignage, il nous explique comment il gère l'enherbement sur le rang de ses jeunes vergers en PFI ou AB grâce au desherbage mécanique.";
+$pratiques['arbo-1']['url'] = 'https://wiki.tripleperformance.fr/wiki/Entretien_m%C3%A9canique_en_jeunes_vergers_dans_une_exploitation_mixte_PFI/AB_-_retour_d%27exp%C3%A9rience_(Jean-Daniel_Rigaud_-_Aglae)';
+$pratiques['arbo-2']['author'] = "Jean-Marc Roux";
+$pratiques['arbo-2']['caption'] = "Entretien mécanique des rangs dans un contexte d’exploitation pomicole mixte PFI/AB - retour d'expérience (Jean-Marc Roux - Aglae)";
+$pratiques['arbo-2']['emailCaption'] = "Entretien mécanique des rangs dans un contexte d’exploitation pomicole mixte PFI/AB";
+$pratiques['arbo-2']['keywords'] = 'Production Fruitière Intégrée (PFI), HVE, AB, jeunes vergers, campagnol provençal, disques de buttage/débuttage, têtes rotofil, brosses métalliques';
+$pratiques['arbo-2']['teaser_multiple'] = "Dans ce témoignage, Jean-Marc Roux nous explique comment il gère l'enherbement de ses vergers pomicoles mixtes PFI/AB grâce au desherbage mécanique.";
+$pratiques['arbo-2']['teaser_once'] = "Dans ce témoignage, il nous explique comment il gère l'enherbement de ses vergers pomicoles mixtes PFI/AB grâce au desherbage mécanique.";
+$pratiques['arbo-2']['url'] = 'https://wiki.tripleperformance.fr/wiki/Entretien_m%C3%A9canique_des_rangs_dans_un_contexte_d%E2%80%99exploitation_pomicole_mixte_PFI/AB_-_retour_d%27exp%C3%A9rience_(Jean-Marc_Roux_-_Aglae)';
+$pratiques['arbo-3']['author'] = "Christophe Ripolles";
+$pratiques['arbo-3']['caption'] = "Paillage tissé sur le rang en vergers zéro résidus pesticides - retour d'expérience (Château de Nages - Aglae)";
+$pratiques['arbo-3']['emailCaption'] = "Paillage tissé sur le rang";
+$pratiques['arbo-3']['keywords'] = 'Paillage, paillage tissé, vergers, zéro résidus de pesticides, Vergers Ecoresponsables, Bee Friendly, HVE, arrêt des herbicides sans travail du sol';
+$pratiques['arbo-3']['teaser_multiple'] = "Dans ce témoignage, Christophe Ripolles partage avec nous comment le Château de Nages évolue vers l'objectif zéro résidus pesticides grâce au paillage tissé sur le rang.";
+$pratiques['arbo-3']['teaser_once'] = "Dans ce témoignage, il partage avec nous comment le Château de Nages évolue vers l'objectif zéro résidus pesticides grâce au paillage tissé sur le rang.";
+$pratiques['arbo-3']['url'] = 'https://wiki.tripleperformance.fr/wiki/Paillage_tiss%C3%A9_sur_le_rang_en_vergers_z%C3%A9ro_r%C3%A9sidus_pesticides_-_retour_d%27exp%C3%A9rience_(Ch%C3%A2teau_de_Nages_-_Aglae)';
+$pratiques['arbo-4']['author'] = "Guillaume Biasotto";
+$pratiques['arbo-4']['caption'] = "Gestion progressive de l'enherbement sur le rang pour optimiser les objectifs de production - retour d'expérience (Guillaume Biasotto - Aglae)";
+$pratiques['arbo-4']['emailCaption'] = "Gestion progressive de l'enherbement sur le rang pour optimiser les objectifs de production";
+$pratiques['arbo-4']['keywords'] = 'Désherbage mécanique, couverts végétaux, bande enherbée';
+$pratiques['arbo-4']['teaser_multiple'] = "Dans ce témoignage, Guillaume Biasotto nous présente comment il optimise ses objectifs de production grâce au désherbage mécanique de ses vergers.";
+$pratiques['arbo-4']['teaser_once'] = "Dans ce témoignage, il nous présente comment il optimise ses objectifs de production grâce au désherbage mécanique de ses vergers.";
+$pratiques['arbo-4']['url'] = 'https://wiki.tripleperformance.fr/wiki/Gestion_progressive_de_l%27enherbement_sur_le_rang_pour_optimiser_les_objectifs_de_production_-_retour_d%27exp%C3%A9rience_(Guillaume_Biasotto_-_Aglae)';
+$pratiques['arbo-5']['author'] = "Pacal Maillols";
+$pratiques['arbo-5']['caption'] = "Auto-construire son matériel : une solution adaptée à certaines exploitations - retour d'expérience (Pascal Maillols - Aglae)";
+$pratiques['arbo-5']['emailCaption'] = "Auto-construire son matériel : une solution adaptée à certaines exploitations";
+$pratiques['arbo-5']['keywords'] = 'Désherbage mécanique, outils fabriqués maison';
+$pratiques['arbo-5']['teaser_multiple'] = "Dans ce témoignage, Pascal Maillols nous explique comment il gère l'enherbement de ses vergers en AB grâce à du matériel fabriqué maison.";
+$pratiques['arbo-5']['teaser_once'] = "Dans ce témoignage, il nous explique comment il gère l'enherbement de ses vergers en AB grâce à du matériel fabriqué maison.";
+$pratiques['arbo-5']['url'] = 'https://wiki.tripleperformance.fr/wiki/Auto-construire_son_mat%C3%A9riel_:_une_solution_adapt%C3%A9e_%C3%A0_certaines_exploitations_-_retour_d%27exp%C3%A9rience_(Pascal_Maillols_-_Aglae)';
+$pratiques['arbo-6']['author'] = "Jean-Louis Bouysset";
+$pratiques['arbo-6']['caption'] = "Favoriser la régulation des pucerons par la gestion de l’enherbement - retour d'expérience (Jean-Louis Bouysset - Aglae)";
+$pratiques['arbo-6']['emailCaption'] = "Favoriser la régulation des pucerons par la gestion de l’enherbement";
+$pratiques['arbo-6']['keywords'] = 'Régulation des pucerons, enherbement spontané';
+$pratiques['arbo-6']['teaser_multiple'] = "Dans ce témoignage, Jean-Louis Bouysset partage avec nous comment il régule les populations de pucerons de ses vergers grâce à la gestion de l'enherbement.";
+$pratiques['arbo-6']['teaser_once'] = "Dans ce témoignage, il partage avec nous comment il régule les populations de pucerons de ses vergers grâce à la gestion de l'enherbement.";
+$pratiques['arbo-6']['url'] = 'https://wiki.tripleperformance.fr/wiki/Favoriser_la_r%C3%A9gulation_des_pucerons_par_la_gestion_de_l%E2%80%99enherbement_-_retour_d%27exp%C3%A9rience_(Jean-Louis_Bouysset_-_Aglae)';
+$pratiques['arbo-7']['author'] = "Hervé Cribeillet";
+$pratiques['arbo-7']['caption'] = "Favoriser la biodiversité fonctionnelle et mieux maîtriser les pucerons - retours d'expérience (Hervé Cribeillet - Aglae)";
+$pratiques['arbo-7']['emailCaption'] = "Favoriser la biodiversité fonctionnelle et mieux maîtriser les pucerons";
+$pratiques['arbo-7']['keywords'] = 'Bande fleurie, pucerons, gestion des adventices, aménager des habitats pour favoriser les auxiliaires dans un verger, enherbement de l\'inter-rang ';
+$pratiques['arbo-7']['teaser_multiple'] = "Dans ce témoignage, Hervé Cribeillet nous explique comment il favorise la biodiversité fonctionnelle de ses vergers pour maîtriser les populations de ravageurs.";
+$pratiques['arbo-7']['teaser_once'] = "Dans ce témoignage, il nous explique comment il favorise la biodiversité fonctionnelle de ses vergers pour maîtriser les populations de ravageurs.";
+$pratiques['arbo-7']['url'] = 'https://wiki.tripleperformance.fr/wiki/Favoriser_la_biodiversit%C3%A9_fonctionnelle_et_mieux_ma%C3%AEtriser_les_pucerons_-_retour_d%27exp%C3%A9rience_(Herv%C3%A9_Cribeillet_-_Aglae)';
+$pratiques['arbo-8']['author'] = "Christian Soler";
+$pratiques['arbo-8']['caption'] = "Un entretien des parcelles combiné dans une approche globale du verger - retour d'expérience (Christian Soler - Aglae)";
+$pratiques['arbo-8']['emailCaption'] = "Un entretien des parcelles combiné dans une approche globale du verger";
+$pratiques['arbo-8']['keywords'] = 'Pâturage, désherbage mécanique, bandes fleuries, couvert végétal';
+$pratiques['arbo-8']['teaser_multiple'] = "Dans ce témoignage, Christian Soler nous présente comment il favorise la biodiversité fonctionnelle de ses vergers pour maîtriser les populations de ravageurs et améliorer la qualité du sol.";
+$pratiques['arbo-8']['teaser_once'] = "Dans ce témoignage, il nous présente comment il favorise la biodiversité fonctionnelle de ses vergers pour maîtriser les populations de ravageurs et améliorer la qualité du sol.";
+$pratiques['arbo-8']['url'] = 'https://wiki.tripleperformance.fr/wiki/Un_entretien_des_parcelles_combin%C3%A9_dans_une_approche_globale_du_verger_-_retour_d%27exp%C3%A9rience_(Christian_Soler_-_Aglae)';
+$pratiques['arbo-9']['author'] = "Bruno Colange";
+$pratiques['arbo-9']['caption'] = "Contrôle des forficules par une gestion mixte de l’enherbement - retour d'expérience (Bruno Colange - Aglae)";
+$pratiques['arbo-9']['emailCaption'] = "Contrôle des forficules par une gestion mixte de l’enherbement";
+$pratiques['arbo-9']['keywords'] = 'Forficules, tonte, enherbement naturel';
+$pratiques['arbo-9']['teaser_multiple'] = "Dans ce témoignage, Bruno Colange nous explique comment il favorise la biodiversité fonctionnelle de ses vergers pour maîtriser les populations de ravageurs.";
+$pratiques['arbo-9']['teaser_once'] = "Dans ce témoignage, il nous explique comment il favorise la biodiversité fonctionnelle de ses vergers pour maîtriser les populations de ravageurs.";
+$pratiques['arbo-9']['url'] = 'https://wiki.tripleperformance.fr/wiki/Contr%C3%B4le_des_forficules_par_une_gestion_mixte_de_l%E2%80%99enherbement_-_retour_d%27exp%C3%A9rience_(Bruno_Colange_-_Aglae)';
+
+
+if (empty($_GET['type']))
+  $type = 'gc';
+else
+  $type = $_GET['type'] == 'gc' ? 'gc' : 'arbo';
 
 ?><!DOCTYPE html>
 <html lang="en">
@@ -93,6 +159,8 @@ $pratiques['arbo-3']['url'] = 'https://wiki.tripleperformance.fr/wiki/Paillage_t
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor/font-awesome/css/all.css" rel="stylesheet">
+  
 
   <style>
  .prepareMailButton {
@@ -108,7 +176,7 @@ $pratiques['arbo-3']['url'] = 'https://wiki.tripleperformance.fr/wiki/Paillage_t
 <body>
 
   <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
       <a class="navbar-brand" href="<?= $GLOBALS['_SERVER']['PHP_SELF'] ?>?">Aglaé</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -116,9 +184,25 @@ $pratiques['arbo-3']['url'] = 'https://wiki.tripleperformance.fr/wiki/Paillage_t
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item active">
+
+        <li class="nav-item mr-5 <?=($type == 'gc' ? 'active' : '')?>">
+            <a class="nav-link" href="index.php?type=gc">
+            <i class="fas fa-seedling"></i>  Grandes cultures
+             
+            </a>
+          </li>
+          <li class="nav-item mr-5 <?=($type == 'arbo' ? 'active' : '')?>">
+         
+            <a class="nav-link" href="index.php?type=arbo">
+            
+            <i class="fas fa-apple-alt"></i> Arboriculture
+              
+            </a>
+          </li>
+
+          <li class="nav-item">
             <a target="_blank" class="nav-link" href="https://occitanie.chambre-agriculture.fr/agroenvironnement/agroecologie/aglae/">Chambre d'Agriculture d'Occitanie
-              <span class="sr-only">(current)</span>
+              
             </a>
           </li>
           <li class="nav-item">
@@ -131,7 +215,7 @@ $pratiques['arbo-3']['url'] = 'https://wiki.tripleperformance.fr/wiki/Paillage_t
   </nav>
 
   <!-- Page Content -->
-  <div class="container">
+  <div class="container mt-5">
     <div class="row">
       <div class="col-lg-8 mx-auto">
 
@@ -240,7 +324,7 @@ else
         <p class="lead">Cette page permet de générer un mail à destination des agriculteurs que vous suivez, pour leur transmettre l'information sur le programme Aglaé</p>
 
         <form method="get" action="">
-        <div>
+        <div class="form-group">
           <label for="nom"><b>Veuillez saisir votre nom : </b></label>
           <input type="text" name="nom" id="nom" required>
         </div>
@@ -250,12 +334,15 @@ else
 
 foreach ($pratiques as $k => $aPratique)
 {
+  if (strpos($k, $type) === false)
+    continue;
+
   $pills = '';
 
   foreach (explode(",", $aPratique['keywords']) as $aKeyword)
     $pills .= '<span class="badge badge-pill badge-info">'.trim($aKeyword).'</span> ';
 
-  echo '<div class="form-check">
+  echo '<div class="form-check form-group">
   <input type="checkbox" class="form-check-input" id="pratiqueId'.$k.'" name="p['.$k.']" value="yes">
   <label class="form-check-label" for="pratiqueId'.$k.'">'.htmlentities($aPratique['caption']).'
   <a target="_blank" href="'.htmlentities($aPratique['url']).'"><img src="https://wiki.tripleperformance.fr/skins/skin-neayi/images/external-link-ltr-icon.svg"></a>

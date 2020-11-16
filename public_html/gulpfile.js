@@ -33,13 +33,26 @@ function modules() {
   // Bootstrap
   var bootstrap = gulp.src('./node_modules/bootstrap/dist/**/*')
     .pipe(gulp.dest('./vendor/bootstrap'));
+
   // jQuery
   var jquery = gulp.src([
       './node_modules/jquery/dist/*',
       '!./node_modules/jquery/dist/core.js'
     ])
     .pipe(gulp.dest('./vendor/jquery'));
-  return merge(bootstrap, jquery);
+
+  // fontawesome
+  var fa = gulp.src([
+    'node_modules/@fortawesome/fontawesome-free/**',
+    '!node_modules/@font-awesome/fontawesome-free/**/*.map',
+    '!node_modules/@font-awesome/fontawesome-free/.npmignore',
+    '!node_modules/@font-awesome/fontawesome-free/*.txt',
+    '!node_modules/@font-awesome/fontawesome-free/*.md',
+    '!node_modules/@font-awesome/fontawesome-free/*.json'
+  ])
+    .pipe(gulp.dest('vendor/font-awesome'));
+
+  return merge(bootstrap, jquery, fa);
 }
 
 // Watch files
