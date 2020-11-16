@@ -159,7 +159,7 @@ else
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="vendor/font-awesome/css/all.css" rel="stylesheet">
+  <link href="vendor/font-awesome/css/all.min.css" rel="stylesheet">
   
 
   <style>
